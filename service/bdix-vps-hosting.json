@@ -11,8 +11,27 @@
 		"price": {
 			"monthly_buy": "",
 			"monthly_renew": "",
-			"yearly_buy": "",
-			"yearly_renew": ""
+			"yearly_buy": false,
+			"yearly_renew": false
+		},
+		"link": "",
+		"features": [
+			"2 Core CPU",
+			"2 GB RAM",
+			"Unlimited Storage",
+			"Single Domain",
+			"Unlimited Data Transfer",
+			"USA Server",
+			"Compatible Add-ons"
+		]
+	},{
+		"name": "Starter",
+		"image": "",
+		"price": {
+			"monthly_buy": "",
+			"monthly_renew": "",
+			"yearly_buy": false,
+			"yearly_renew": false
 		},
 		"link": "",
 		"features": [
